@@ -1,6 +1,6 @@
 # hello
 
-**i am iceables, a horrible coder, please do not hire me. thanks)**
+**i am iceables, a horrible coder, please do not hire me. thanks**
 
 ![GitHub followers](https://img.shields.io/github/followers/iceables?label=Follow&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=iceables&color=blue)
